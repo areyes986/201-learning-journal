@@ -1,13 +1,13 @@
 # HTML Text, CSS Introduction, and JavaScript instructions. #
 
 ## Chapter 2:Text pg. 40-61 ##
-**Headings** have 6 lvls. `<h1>, <h2>, ect`
-**Bold**  `<b>bolded words</b>`
-**Italic** `<i>italized words</i>`
-**Superscript** `<sup></sup>`, ex: `Oct. 28<sup>th</sup>` = Oct. 28<sup>th</sup>
-**Subscript** `<sub></sub>`, ex: `CO<sub>2</sub>` = CO<sub>2</sub> 
-**Line breaks** `<br />`, to add a line break in a `<p>` if you want. 
-**Horizontal Rules** `<hr />` using this adds a horizontal rule.
+- **Headings** have 6 lvls. `<h1>, <h2>, ect`
+- **Bold**  `<b>bolded words</b>`
+- **Italic** `<i>italized words</i>`
+- **Superscript** `<sup></sup>`, ex: `Oct. 28<sup>th</sup>` = Oct. 28<sup>th</sup>
+- **Subscript** `<sub></sub>`, ex: `CO<sub>2</sub>` = CO<sub>2</sub> 
+- **Line breaks** `<br />`, to add a line break in a `<p>` if you want. 
+- **Horizontal Rules** `<hr />` using this adds a horizontal rule.
 - line breaks and horizontal rules are *empty elements.*
 
 ### Semtantic Markup ###
@@ -17,11 +17,11 @@
 **Quotations** 
 - `<blockquote>` - used for longer quotes
 - `<q>` - shorter quotes that sit in paragraphs. It adds quotations. Not used a lot because it is not supported by Internet Explorer. 
-**Abbreviations and Acronyms** `<abbr>`
-**Citations** `<cite>`for referencing a piece of work
-**Definitions** `<dfn>` for new terminology
-**Author Details** `<address>`, contact info of author, appears italized
-**Changes to Contect**
+- **Abbreviations and Acronyms** `<abbr>`
+- **Citations** `<cite>`for referencing a piece of work
+- **Definitions** `<dfn>` for new terminology
+- **Author Details** `<address>`, contact info of author, appears italized
+- **Changes to Contect**
 - `<ins>` - shows what info has been inserted into the doc, it is underlines
 - `<del>` - shows text that has been deleted, a line through the word
 - `<s>` - used when info is not accurate or relevant, a line through center of word as well. 
