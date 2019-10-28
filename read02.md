@@ -1,6 +1,6 @@
-#HTML Text, CSS Introduction, and JavaScript instructions.#
+# HTML Text, CSS Introduction, and JavaScript instructions. #
 
-##Chapter 2:Text pg. 40-61##
+## Chapter 2:Text pg. 40-61 ##
 **Headings** have 6 lvls. `<h1>, <h2>, ect`
 **Bold**  `<b>bolded words</b>`
 **Italic** `<i>italized words</i>`
@@ -10,7 +10,7 @@
 **Horizontal Rules** `<hr />` using this adds a horizontal rule.
 - line breaks and horizontal rules are *empty elements.*
 
-###Semtantic Markup###
+### Semtantic Markup ###
 - text elements that do not affect your webpages structure but adds extra info to pages.
 **Strong and Emphasis**
 - A question I have about this is, what is the difference between strong and emphasis tags from `<b>` and `<i>`?
@@ -26,7 +26,7 @@
 - `<del>` - shows text that has been deleted, a line through the word
 - `<s>` - used when info is not accurate or relevant, a line through center of word as well. 
 
-##Chapter 2: Basic JS Instructions pg. 53-84##
+## Chapter 2: Basic JS Instructions pg. 53-84 ##
 **Rules for naming variables** 
 1. must begin with a letter, dollar sign, underscore. NOT with a number
 1. you cannot used dashes or periods
@@ -35,5 +35,5 @@
 1. the name should describe the info of value
 1. if it is more than one word, make second words first letter uppercase, ex: visitorName not visitorname
 
-##Chapter 4: Decisions and Loops pg. 145-162##
+## Chapter 4: Decisions and Loops pg. 145-162 ##
 *Evaluations*, *Decisions*, and *Loops* are used to run different code in different situations. 
