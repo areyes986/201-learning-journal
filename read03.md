@@ -11,7 +11,6 @@
 - **Nested Lists**
 - you can put a list inside a list! 
 ex: 
-
 ```
 <ul>
     <li>list</li>
@@ -29,7 +28,8 @@ ex:
 - **Box Dimensions**
     - you can use pixels, percentages, or ems to size a box.
     - ex: `height: 100px;`
-_ **Limiting Width and Height**
+
+- **Limiting Width and Height**
     - specifies the smallest or biggest a box can be when displayed
     - ex; `min-width: 300px`
 
@@ -56,5 +56,13 @@ _ **Limiting Width and Height**
 ```
 margin-left: auto;
 margin-right: auto;
-
 ```
+**Border Images**
+- applies an image to the border of any box. You need 3 things:
+    1. URL to image
+    1. Where to slice image
+    1. you can either *stretch*, *repeat*, or *round* the straight edges
+
+**Box Shadows**
+- `box-shadow: ` allows you to add shadows to you boxes
+
