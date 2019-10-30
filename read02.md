@@ -12,7 +12,7 @@
 
 ### Semtantic Markup ###
 - text elements that do not affect your webpages structure but adds extra info to pages.
-**Strong and Emphasis**
+- **Strong and Emphasis**
 - A question I have about this is, what is the difference between strong and emphasis tags from `<b>` and `<i>`?
 **Quotations** 
 - `<blockquote>` - used for longer quotes
