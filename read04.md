@@ -1,11 +1,11 @@
-## Links ## pg. 74-93
+## Link pg. 74-93
 - ex of a *link tag*: `<a href="https://github.com/">Github</a>`
 - ex of *linking to pages of the same site*: `<a href="index.html">Index</a>`
 - ex of *email links* `<a href="mailto:allyexample@gmail.com>Email me!</a>`
 - ex of links opening *in new window* `<a href="https://github.com"target="_blank">This will open a new window</a>`
 - you  can also use IDs to link to diff parts of the same page
 
-## Layout ## pg 358-404
+## Layout pg 358-404
 
 **Relative Position** `position:relative` \
 Moves an element over from where it was in normal flow by possibly moving in 20 px to right or 50px bottom if you want. 
