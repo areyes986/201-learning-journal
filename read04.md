@@ -29,3 +29,7 @@ Use width to indicate how wide the element is. Be mindful, if the width is too b
     **Z-Index or Stacking Context** `z-index:10` \
     Used for boxes that overlap, you can control which box sits on the top.
     - high the value is, the higher it sits in front
+
+- Designers try to create pages that are about 960 - 1000 px wide.
+
+
