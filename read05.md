@@ -22,38 +22,38 @@ The fonts with extra details
 **sans-serif**\
 Straight ends. If text is small, using this can be easier to read
 **monospace**\
-all letters are the same width. Used for coding! aligns nicely. \
+all letters are the same width. Used for coding! aligns nicely. 
 
 `font-weight:`
-- Light, medium, bold, black \
+- Light, medium, bold, black 
 
 `font-style:`
 - Normal, italic, oblique
     - italic have cursive aspects while oblique just puts an angle on normal styles \
 
 `font-stretch:`
-- condensed, regular, extended \
+- condensed, regular, extended 
 
 `text-transform:`
 - uppercase - text to be all uppercase
 - lowercase
-- capitalize - first letter of each word is capitalized \
+- capitalize - first letter of each word is capitalized 
 
 `text-decoration:`
 - none, removes decorations already applies
 - underline
 - overline - adds line at the top of text
-- blink - flashes text off and on \
+- blink - flashes text off and on 
 
 `text-align:`
 - left, right, center
-- justify - every line in the paragraph will take up entire width of its box \
+- justify - every line in the paragraph will take up entire width of its box 
 
-`a:link`\
-to style the link that is not visited yet\
+`a:link`
+to style the link that is not visited yet
 
-`a:visited`\
-to style links that are already visited \
+`a:visited`
+to style links that are already visited 
 
 
 
