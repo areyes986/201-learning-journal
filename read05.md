@@ -3,9 +3,9 @@
 **Three Rules for Creatig Images** 
 1. Save your images in the right format
 - mainly used are jpeg, gif, or png
-1. Save your img at the right size
+2. Save your img at the right size
 - save the img you want at the size you would like it to appear on your page (you can use adobe photoshop or other online editors. refer to pg 108 for more)
-1. Measure img in pixels
+2. Measure img in pixels
 
 **jpeg**
 - use for img that have lot of colors
