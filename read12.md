@@ -25,6 +25,11 @@ Syntax:
 `fill()` daws solid shape by filling the paths content area.  
 `moveTo(x,y)` within the path you created, you can start the point in a new area, 
 `lineTo(x,y)` to see connecting lines. Draws a line from current point to position x and y.  
-`arc(x,y,radius,startAngle, endAngle, anticlockwise)` x an y is the center of the circle where the arc should be. Radius is radius. start/end angle are the start and end points of the arc in radians measured by the x axis. anticlockwise is a Boolean value.
+`arc(x,y,radius,startAngle, endAngle, anticlockwise)` x an y is the center of the circle where the arc should be. Radius is radius. start/end angle are the start and end points of the arc in radians measured by the x axis. anticlockwise is a Boolean value.   
 
+## Colors##
+fillStyle - fills shapes  
+stroke Style - sets style for outlines.  
+
+the value should be in a string. Ex: `variable.fillStyle = 'blue';
 
